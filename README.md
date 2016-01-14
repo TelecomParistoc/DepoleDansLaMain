@@ -19,3 +19,6 @@ pour tester, lancer `make`, puis `make run`pour executer cette oeuvre signée A.
 
 > "Le droit à l'oubli, ça marche aussi pour les tables de multiplication ?"
 > T.R.
+
+
+> "Le LASER, LASER à quoi ? LASER à rien !"   Anonyme. 
