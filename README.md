@@ -22,3 +22,5 @@ pour tester, lancer `make`, puis `make run`pour executer cette oeuvre signée A.
 
 
 > "Le LASER, LASER à quoi ? LASER à rien !"   Anonyme. 
+
+> (à propos d'un lapin croisé dans Paris) "Je vous ai rpas raconté le **coup du lapin** vivant ?" A. A.
