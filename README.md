@@ -20,9 +20,14 @@ pour tester, lancer `make`, puis `make run`pour executer cette oeuvre signée A.
 > "Le droit à l'oubli, ça marche aussi pour les tables de multiplication ?"
 > T.R.
 
+> "Le LASER, LASER à quoi ? LASER à rien !"
+> Anonyme. 
 
-> "Le LASER, LASER à quoi ? LASER à rien !"   Anonyme. 
+> (à propos d'un lapin croisé dans Paris) "Je vous ai pas raconté le **coup du lapin** vivant ?"
+> A. A.
 
-> (à propos d'un lapin croisé dans Paris) "Je vous ai pas raconté le **coup du lapin** vivant ?" A. A.
+> "Le racisme latent, mais il l'attend où exactement ?"
+> T.R.
 
-> "Le racisme latent, mais il l'attend où exactement ?" T.R.
+> "Pas de nouilles, plus de quiches, papapapas denouilles, plus de quiches"
+> Antoine Daniel
