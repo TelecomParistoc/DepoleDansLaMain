@@ -10,7 +10,7 @@ Le dépôt officiel du pôle dans la main !
 
 ## Installation
 
-pour tester, lancer `make`, puis `make run`pour executer cette oeuvre signée A. A.
+Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 
 ## La rubrique de Tanguy "La Blague" Rouffignac-Müller
 
@@ -24,10 +24,13 @@ pour tester, lancer `make`, puis `make run`pour executer cette oeuvre signée A.
 > Anonyme. 
 
 > (à propos d'un lapin croisé dans Paris) "Je vous ai pas raconté le **coup du lapin** vivant ?"
-> A. A.
+> A.A.
 
 > "Le racisme latent, mais il l'attend où exactement ?"
 > T.R.
 
 > "Pas de nouilles, plus de mâche, papapapas de nouilles, plus de mâche"
 > Antoine Daniel
+
+> "Pince-mi et Pince-moi sont sur un bâteau. D'un coup, il y a une éclipse et du ils n'ont plus de rames" #UML
+> T.R.
