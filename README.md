@@ -32,5 +32,5 @@ Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 > "Pas de nouilles, plus de mâche, papapapas de nouilles, plus de mâche"
 > Antoine Daniel
 
-> "Pince-mi et Pince-moi sont sur un bâteau. D'un coup, il y a une éclipse et du ils n'ont plus de rames" #UML
+> "Pince-mi et Pince-moi sont sur un bâteau, mais il y a une éclipse et du coup ils n'ont plus de rames" #UML
 > T.R.
