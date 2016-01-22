@@ -34,3 +34,6 @@ Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 
 > "Pince-mi et Pince-moi sont sur un bâteau, mais il y a une éclipse et du coup ils n'ont plus de rames" #UML
 > T.R.
+
+> "Le sophisme, c'est être à Sophia"
+> T.E.
