@@ -37,3 +37,6 @@ Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 
 > "Le sophisme, c'est être à Sophia"
 > T.E.
+
+> "Mais pas n'importe laquelle, la gaule du général de France"
+> T.R.
