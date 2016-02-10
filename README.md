@@ -41,5 +41,7 @@ Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 > "Mais pas n'importe laquelle, la gaule du général de France"
 > T.R.
 
-> "J'ai cessé de compiler"
+> "GCC de compiler"
 > T.R.
+
+> "T.G. à Alex N. : t'as mis la pile en flash ? Ha ha, t'es humilié là !" #Grabifle 
