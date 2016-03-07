@@ -12,6 +12,10 @@ Le dépôt officiel du pôle dans la main !
 
 Pour tester, lancer `make` ou `make run`pour exécuter cette oeuvre signée A.A.
 
+## Pôle communication
+
+La bande son officielle à utiliser pour toutes les vidéos de propagande est disponible au format FLAC (à écouter avec lecture en boucle)
+
 ## La rubrique de Tanguy "La Blague" Rouffignac-Müller
 
 > "Il ne suffit pas de faire du Cetelem pour ressembler à Cetelem"
