@@ -48,4 +48,10 @@ La bande son officielle à utiliser pour toutes les vidéos de propagande est di
 > "GCC de compiler"
 > T.R.
 
-> "T.G. à Alex N. : t'as mis la pile en flash ? Ha ha, t'es humilié là !" #Grabifle 
+> "T.G. à Alex N. : t'as mis la pile en flash ? Ha ha, t'es humilié là !" #Grabifle
+
+> "Je me cache à l'eau dit la baleine."
+> T.R.
+
+> "C'est un pirate, il passe son permis pirate, et pis il rate"
+> T.R.
