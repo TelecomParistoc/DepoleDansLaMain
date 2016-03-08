@@ -48,4 +48,11 @@ La bande son officielle à utiliser pour toutes les vidéos de propagande est di
 > "GCC de compiler"
 > T.R.
 
-> "T.G. à Alex N. : t'as mis la pile en flash ? Ha ha, t'es humilié là !" #Grabifle 
+> "T.G. à Alex N. : t'as mis la pile en flash ? Ha ha, t'es humilié là !" #Grabifle
+
+##Les phrases compliquées
+
+> A TF can be caused by a defect in polysilicon
+layer covering a diffusion region, which may result in
+an extra parasitic pass transistor, whereby the gate is 
+connected to a node. 
