@@ -56,6 +56,9 @@ La bande son officielle à utiliser pour toutes les vidéos de propagande est di
 > "C'est un pirate, il passe son permis pirate, et pis il rate"
 > T.R.
 
+> "C'est avant de faire une lessive qu'on atteint les profondeurs abyssales de l'humour"
+> T.R.
+
 ##Les phrases compliquées
 
 > A TF can be caused by a defect in polysilicon
