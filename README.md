@@ -59,6 +59,9 @@ La bande son officielle à utiliser pour toutes les vidéos de propagande est di
 > "C'est avant de faire une lessive qu'on atteint les profondeurs abyssales de l'humour"
 > T.R.
 
+> "Sa mère les quatrains"
+> Elie de Ronsard du Bellay, duc de Boulogne (1569)
+
 ##Les phrases compliquées
 
 > A TF can be caused by a defect in polysilicon
